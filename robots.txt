@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://igry-2026939.github.io/sitemap.xml
